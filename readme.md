@@ -30,4 +30,4 @@ If you use this repository or its data/scripts, please cite:
 
 Data and code: **Binary_Diversity** repository.
 
-For questions regarding DEMBody datasets, please contact the corresponding author listed in the publication.
+For questions regarding DEMBody or REBOUND simulation datasets, please contact the corresponding author listed in the publication.
