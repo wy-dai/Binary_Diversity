@@ -1,6 +1,6 @@
 # Binary_Diversity
 
-Additional supporting information. MATLAB scripts in Dai, W.-Y. et al. Diverse configurations of binary asteroids explained by multi-generation satellites (Nature Communications).
+Additional supporting information. Source data and MATLAB scripts for producing figures in Dai, W.-Y. et al. Diverse configurations of binary asteroids explained by multi-generation satellites (Nature Communications).
 
 The raw simulation snapshot data (approx. 50 GB) is not included due to size constraints. For questions regarding the simulation datasets, please contact the corresponding author listed in the publication.
 
@@ -11,7 +11,7 @@ Contains observational data for binary asteroids:
 - **johnstons archive binary [0304].xlsx** - Binary asteroid catalog data from Johnston's Archive (date: 4 Mar 2025). Only binaries with a D \< 20 km primary are included, and the TNO and Trojan binaries are excluded. Applied in Figure 1, 9 and S2.
 
 ### `/source_data/`
-Contains raw .fig MATLAB figure files of figures in the paper, in which all the underlying data are accessable:
+Contains raw .fig MATLAB figure files of figures in the paper, in which all the underlying data are accessible:
 - **diagram.fig** - Raw .fig file for Figure 2.
 - **simulations.fig** - Raw .fig file for Figure 3.
 - **diagram_simu.fig** - Raw .fig file for Figure 6.
