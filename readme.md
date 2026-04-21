@@ -25,7 +25,7 @@ Contains MATLAB scripts used for the input data generation and post-processing o
 #### `/input/`
 Input generation scripts:
 - **diskGen.m** - Disk generation script for creating initial configurations.
-- **satPlusDisk.m** - Script for assembling the disk and the satellite.
+- **satPlusDisk.m** - Script for assembling the disk and the satellite in the input file.
 
 #### `/post-processing/`
 Scripts for cluster searching and analysis:
