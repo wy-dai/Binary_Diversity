@@ -24,7 +24,7 @@ Scripts for cluster searching and analysis:
 - **diskAnalysis.m** - Cluster information finder for DEM simulations with pre-existing satellite. Applied for producing Figure S4.
 
 ## Citation
-If you use this repository or its data, please cite:
+If you use this repository or its data/scripts, please cite:
 
 > Dai, W.-Y. *et al.* (2026) Diverse configurations of binary asteroids explained by multi-generation satellites. *Nature Communications*.
 
