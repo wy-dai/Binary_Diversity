@@ -8,16 +8,12 @@ The raw simulation snapshot data (approx. 50 GB) is not included due to size con
 
 ### `/binary_asteroid_data/`
 Contains observational data for binary asteroids:
-- **johnstons archive binary [0304].xlsx** - Binary asteroid catalog data from Johnston's Archive (date: 4 Mar 2025). Only binaries with a D \< 20 km primary are included, and the TNO and Trojan binaries are excluded. Applied in Figure 1, 9 and S2.
+- **johnstons archive binary [0304].xlsx** - Binary asteroid catalog data from Johnston's Archive (date: 4 Mar 2025). Only binaries with a D \< 20 km primary are included, and the TNO and Trojan binaries are excluded. Applied in Figure 1, 2a, 9 and S2.
 
 ### `/source_data/`
-Contains raw .fig MATLAB figure files of figures in the paper, in which all the underlying data are accessible:
-- **diagram.fig** - Raw .fig file for Figure 2.
-- **simulations.fig** - Raw .fig file for Figure 3.
-- **diagram_simu.fig** - Raw .fig file for Figure 6.
-- **binaryPrimarySpin.fig** - Raw .fig file for Figure S2.
-- **simu_isolation.fig** - Raw .fig file for Figure S3.
-- **diskMass.fig** - Raw .fig file for Figure S4.
+Contains source data for figures in the paper:
+- **source_data.xlsx** - Source data for Figures 2, 3, 6 and S4a-b.
+- **source_data_S4cd.txt** - Source data for Figures S4c-d (REBOUND simulation data).
 
 ### `/DEM_simulation/`
 Contains MATLAB scripts used for the input data generation and post-processing of DEMBody simulations:
