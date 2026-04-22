@@ -21,14 +21,14 @@ Input generation scripts:
 #### `/post-processing/`
 Scripts for cluster searching and analysis:
 - **clusterInfoFinder_pile_sat.m** - Searching cluster information for DEM simulations with pre-existing satellite.
-- **clusterAnalysis_sat.m** - Cluster properties analysis for DEM simulations with pre-existing satellite. Applied for producing Figure 3 and S3.
+- **clusterAnalysis_sat.m** - Cluster properties analysis for DEM simulations with pre-existing satellite. Applied for producing Figure 3 and Supplementary Figure 3.
 - **clusterInfoFinder_no_sat.m** - Searching clusters for DEM simulations without pre-existing satellite.
-- **diskAnalysis.m** - Cluster information finder for DEM simulations with pre-existing satellite. Applied for producing Figure S4.
+- **diskAnalysis.m** - Cluster information finder for DEM simulations with pre-existing satellite. Applied for producing Supplementary Figure 4.
 
 ### `/source_data/`
 Contains source data for figures in the paper:
-- **source_data.xlsx** - Source data for Figures 2, 3, 6 and S4a-b.
-- **source_data_S4cd.txt** - Source data for Figures S4c-d (REBOUND simulation data).
+- **source_data.xlsx** - Source data for Figures 2, 3 and 6, and Supplementary Figures 2, 3a-b and 4.
+- **source_data_S3cd.txt** - Source data for Supplementary Figures 3c-d (REBOUND simulation data).
 
 ## Citation
 If you use this repository or its data/scripts, please cite:
